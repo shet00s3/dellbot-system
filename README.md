@@ -1,1 +1,2 @@
-# dellbot-system
+# PlaneDiscordBOT
+ A discord bot
