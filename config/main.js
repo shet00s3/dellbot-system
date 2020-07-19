@@ -1,0 +1,14 @@
+
+var config = { 
+bot: { 
+    "token_bot": "NTI5MjIwNDQyMjgwNTU4NjAz.XxNQCA.cOjSrcbkY_gIyXUAAEyeEhhq4pE",
+    "owners": "529076415694635019",
+    "botid": "529220442280558603",
+    "supporter":  "529076415694635019",
+    "prefix": "#",
+    "gamestatus": "[membercount] User Online!" 
+}
+
+}
+
+module.exports = config;
