@@ -26,11 +26,5 @@
   },
   "engines": {
     "node": "10.x"
-  },
-  "repository": {
-    "url": "https://discord.gg/9gbXRcT"
-  },
-  "scripts": {
-    "start": "node index2.js"
   }
 }
