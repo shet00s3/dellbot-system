@@ -1,9 +1,9 @@
 var data = { 
  mysql: { 
-    "host": "",
-    "user": "",
-    "password":  "",
-    "database": "",
+    "host": "156.197.147.126",
+    "user": "2289930",
+    "password":  "123456",
+    "database": "dellbot-system",
     "charset": ""
 },
  nosql: { 
