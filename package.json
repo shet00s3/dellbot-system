@@ -1,14 +1,13 @@
 {
-  "name": "DrTriCK",
-  "version": "1.6.0",
-  "description": "DrTriCk",
+  "name": "dellbot-system",
+  "version": "0.0.1",
+  "description": "Test dellbot-system",
   "main": "index2.js",
-  "author": "DrTriCk",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://discord.gg/9gbXRcT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://discord.gg/9gbXRcT",
+  "author": "Predrag Stošić",
+  "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "async": "^3.2.0",
@@ -23,8 +22,5 @@
     "moment": "^2.27.0",
     "countdown": "^2.6.0",
     "chalk": "^4.1.0"
-  },
-  "engines": {
-    "node": "10.x"
   }
 }
