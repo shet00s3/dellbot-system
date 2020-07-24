@@ -1,10 +1,10 @@
 { 
   "mysql": { 
-    "host": "",
-    "user": "",
-    "password":  "",
-    "database": "",
-    "charset": ""
+    "host": "10.123.0.78:3306",
+    "user": "drtri1_dellbot-system",
+    "password":  "123456",
+    "database": "drtri1_dellbot-system",
+    "charset": "UTF-8"
 },
  "nosql": { 
 
